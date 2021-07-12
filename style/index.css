@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+}
+
+.body {
+    background-color: #111111;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-block-grid {
+    width: 654px;
+    min-width: 654px;
+    display: grid;
+    grid-template-columns: 120px 120px 120px 120px;
+    grid-template-rows: 120px 120px;
+    row-gap: 37px;
+    column-gap: 58px;
+}
+
+.link-item {
+    width: 120px;
+    height: 120px;
+    border-radius: 4px;
+    background-color: #2F2F2F;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.5s;
+}
+
+.link-logo {
+    display: block;
+    width: 50px;
+    height: 50px;
+}
+
+.link-item:hover{
+    border:3px solid #9400FF;
+    box-sizing: border-box;
+    border-radius: 4px;
+  }
+
+.link-logo--github {
+    background-image: url(/img/disable-icon/github.svg);
+}
+
+.link-item--github:hover .link-logo--github {
+    background-image: url(/img/hover-icon/github.svg);
+}
+
+.link-logo--gitlab {
+    background-image: url(/img/disable-icon/gitlab.svg);
+}
+
+.link-item--gitlab:hover .link-logo--gitlab {
+    background-image: url(/img/hover-icon/gitlab.svg);
+}
+
+.link-logo--telegram {
+    background-image: url(/img/disable-icon/telegram.svg);
+}
+
+.link-item--telegram:hover .link-logo--telegram {
+    background-image: url(/img/hover-icon/telegram.svg);
+}
+
+.link-logo--jsfid {
+    width: 60px;
+    background-image: url(/img/disable-icon/Group.svg);
+}
+
+.link-item--jsfid:hover .link-logo--jsfid {
+    background-image: url(/img/hover-icon/Group.svg);
+}
+
+.link-logo--trello {
+    background-image: url(/img/disable-icon/trello.svg);
+}
+
+.link-item--trello:hover .link-logo--trello {
+    background-image: url(/img/hover-icon/trello.svg);
+}
+
+.link-logo--youtube {
+    background-image: url(/img/disable-icon/youtube.svg);
+}
+
+.link-item--youtube:hover .link-logo--youtube {
+    background-image: url(/img/hover-icon/youtube.svg);
+}
+
+.link-logo--zoom {
+    background-image: url(/img/disable-icon/zoom.svg);
+}
+
+.link-item--zoom:hover .link-logo--zoom {
+    background-image: url(/img/hover-icon/zoom.svg);
+}
+
+.link-logo--gmail {
+    background-image: url(/img/disable-icon/gmail.svg);
+}
+
+.link-item--gmail:hover .link-logo--gmail {
+    background-image: url(/img/hover-icon/gmail.svg);
+}
