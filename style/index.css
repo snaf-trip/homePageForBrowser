@@ -25,7 +25,7 @@
     width: 120px;
     height: 120px;
     border-radius: 4px;
-    background-color: #2F2F2F;
+    background-color: #2f2f2fe7;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -45,66 +45,66 @@
   }
 
 .link-logo--github {
-    background-image: url(/img/disable-icon/github.svg);
+    background-image: url(/home/it-201/Desktop/homePageForBrowser/homePageForBrowser/img/disable-icon/github.svg);
 }
 
 .link-item--github:hover .link-logo--github {
-    background-image: url(/img/hover-icon/github.svg);
+    background-image: url(/home/it-201/Desktop/homePageForBrowser/homePageForBrowser/img/hover-icon/github.svg);
 }
 
 .link-logo--gitlab {
-    background-image: url(/img/disable-icon/gitlab.svg);
+    background-image: url(/home/it-201/Desktop/homePageForBrowser/homePageForBrowser/img/disable-icon/gitlab.svg);
 }
 
 .link-item--gitlab:hover .link-logo--gitlab {
-    background-image: url(/img/hover-icon/gitlab.svg);
+    background-image: url(/home/it-201/Desktop/homePageForBrowser/homePageForBrowser/img/hover-icon/gitlab.svg);
 }
 
 .link-logo--telegram {
-    background-image: url(/img/disable-icon/telegram.svg);
+    background-image: url(/home/it-201/Desktop/homePageForBrowser/homePageForBrowser/img/disable-icon/telegram.svg);
 }
 
 .link-item--telegram:hover .link-logo--telegram {
-    background-image: url(/img/hover-icon/telegram.svg);
+    background-image: url(/home/it-201/Desktop/homePageForBrowser/homePageForBrowser/img/hover-icon/telegram.svg);
 }
 
 .link-logo--jsfid {
     width: 60px;
-    background-image: url(/img/disable-icon/Group.svg);
+    background-image: url(/home/it-201/Desktop/homePageForBrowser/homePageForBrowser/img/disable-icon/Group.svg);
 }
 
 .link-item--jsfid:hover .link-logo--jsfid {
-    background-image: url(/img/hover-icon/Group.svg);
+    background-image: url(/home/it-201/Desktop/homePageForBrowser/homePageForBrowser/img/hover-icon/Group.svg);
 }
 
 .link-logo--trello {
-    background-image: url(/img/disable-icon/trello.svg);
+    background-image: url(/home/it-201/Desktop/homePageForBrowser/homePageForBrowser/img/disable-icon/trello.svg);
 }
 
 .link-item--trello:hover .link-logo--trello {
-    background-image: url(/img/hover-icon/trello.svg);
+    background-image: url(/home/it-201/Desktop/homePageForBrowser/homePageForBrowser/img/hover-icon/trello.svg);
 }
 
 .link-logo--youtube {
-    background-image: url(/img/disable-icon/youtube.svg);
+    background-image: url(/home/it-201/Desktop/homePageForBrowser/homePageForBrowser/img/disable-icon/youtube.svg);
 }
 
 .link-item--youtube:hover .link-logo--youtube {
-    background-image: url(/img/hover-icon/youtube.svg);
+    background-image: url(/home/it-201/Desktop/homePageForBrowser/homePageForBrowser/img/hover-icon/youtube.svg);
 }
 
 .link-logo--zoom {
-    background-image: url(/img/disable-icon/zoom.svg);
+    background-image: url(/home/it-201/Desktop/homePageForBrowser/homePageForBrowser/img/disable-icon/zoom.svg);
 }
 
 .link-item--zoom:hover .link-logo--zoom {
-    background-image: url(/img/hover-icon/zoom.svg);
+    background-image: url(/home/it-201/Desktop/homePageForBrowser/homePageForBrowser/img/hover-icon/zoom.svg);
 }
 
 .link-logo--gmail {
-    background-image: url(/img/disable-icon/gmail.svg);
+    background-image: url(/home/it-201/Desktop/homePageForBrowser/homePageForBrowser/img/disable-icon/gmail.svg);
 }
 
 .link-item--gmail:hover .link-logo--gmail {
-    background-image: url(/img/hover-icon/gmail.svg);
+    background-image: url(/home/it-201/Desktop/homePageForBrowser/homePageForBrowser/img/hover-icon/gmail.svg);
 }
